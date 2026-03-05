@@ -76,7 +76,6 @@
   url: "crypt.ee"
   poc: "John Ozbay <hello@johnozbay.com>"
   region: "EE"
-  social-x: "https://x.com/crypteeapp"
 - organization: "Data Rights"
   url: "datarights.ngo"
   poc: "Eliot Bendinelli <info@datarights.ngo>"
