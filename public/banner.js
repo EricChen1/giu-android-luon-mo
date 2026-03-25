@@ -54,6 +54,7 @@
     fi:      "Androidista tulee suljettu alusta",
     hu:      "Az Android egy lezárt platform lesz",
     vi:      "Android sẽ trở thành một hệ điều hành đóng",
+    "vi-hani":"Android \u4ed5\ud842\udf64\u6210\ud842\udf20\u7cfb\u8abf\u884c\u3a02",
   };
 
   // ── Parse query parameters from the script's own src URL ──────────────

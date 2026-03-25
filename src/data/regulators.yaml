@@ -23,6 +23,7 @@ heading:
   zh-TW: "消費者：聯絡政府監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
   vi: "Người dùng: Liên hệ với cơ quan quản lý của chính phủ"
+  vi-hani: "𠊛用：聯繫貝機關管理𧵑政府"
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
@@ -49,6 +50,7 @@ intro:
   zh-TW: "全球各地的監管機構對科技領域的壟斷和權力集中深表關切，並希望直接傾聽受到影響和關注此事的個人的聲音。在直接聯絡監管機構時，您應該保持 _禮貌_ ，並 _具體_ 說明您認為這些政策將對消費者和競爭造成的危害。"
   ja: "世界中の規制当局は、テクノロジー業界における独占と権力の集中を真に懸念しており、影響を受け懸念を抱く個人から直接意見を聞きたいと考えています。規制当局に直接連絡する際は、これらの政策が消費者と競争の両方に与えると考えられる害について、_礼儀正しく_、_具体的_ に述べてください。"
   vi: "Các cơ quan quản lý trên toàn thế giới quan ngại sâu sắc về sự độc quyền và tập trung quyền lực trong lĩnh vực công nghệ, đồng thời muốn lắng nghe ý kiến ​​trực tiếp từ những cá nhân bị ảnh hưởng và có liên quan. Khi liên hệ trực tiếp với cơ quan quản lý, bạn phải _lịch sự_ và giải thích _cụ thể_ về tác hại mà bạn tin rằng những chính sách này sẽ gây ra cho người tiêu dùng và sự cạnh tranh."
+  vi-hani: "各機關管理𨑗全世界關礙漊銫𧗱事獨權吧集中權力𥪝領域工藝、同時㦖𢠯𦖑意見​直接自仍個人被影響吧固連關。欺聯繫直接貝機關管理、伴沛 _歷事_ 吧解釋 _具體_ 𧗱作害𦓡伴信哴仍政策尼仕𨠳𫥨朱𠊛消用吧事競爭。"
 
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
@@ -75,6 +77,7 @@ follow_up:
   zh-TW: "當申訴是由該國家或地區的公民撰寫，並且電子郵件語言是該地區管理機構的官方語言之一時，申訴的影響力尤為顯著。請要求對申訴給予_書面確認_，並考慮將您收到的任何回覆轉發至 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ，以便我們突出顯示並作為參考。"
   ja: "苦情は、その国や地域の市民によって提出され、かつメールの言語が当該地域の統治機関の公用語のうちの一つで書かれている場合に特に効果的です。苦情の受理確認書を文書で請求し、受け取った回答は [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) に転送することをご検討ください。そうすることで、私達がそれらを強調し参照することが可能となります。"
   vi: "Tác động của khiếu nại đặc biệt quan trọng khi nó được viết bởi công dân của quốc gia hoặc khu vực đó và ngôn ngữ email là một trong những ngôn ngữ chính thức của cơ quan quản lý khu vực. Vui lòng yêu cầu văn bản xác nhận đơn khiếu nại và cân nhắc chuyển tiếp mọi phản hồi bạn nhận được tới [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) để chúng tôi có thể đánh dấu và tham khảo chúng."
+  vi-hani: "作動𧵑叫奈特別關重欺伮得曰𤳸公民𧵑國家或區域妬吧言語伊𩄲𱺵𠬠𥪝仍言語正式𧵑機關管理區域。𢝙𢚸要求文本確認單叫奈吧斤𢩮轉接𤗆返回 _伴認_ 得𬧐  [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) 抵衆碎固体打𨁪吧參考衆。"
 
 countries:
   - id: united-states
@@ -100,6 +103,7 @@ countries:
       zh-TW: "美國"
       ja: "アメリカ合衆国"
       vi: "Hoa Kỳ"
+      vi-hani: "花旗"
     items:
       - text:
           ar: "قدّم تقريراً إلى [قسم مكافحة الاحتكار التابع لوزارة العدل الأمريكية عبر الإنترنت](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
@@ -1731,6 +1735,8 @@ countries:
       zh-CN: "欧盟"
       zh-TW: "歐盟"
       ja: "欧州連合"
+      vi: "Liên minh châu Âu"
+      vi-hani: "聯盟洲歐"
     items:
       - text:
           ar: "تواصل مع فريق DMA: [https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen](https://digital-markets-act.ec.europa.eu/contact-us-eu-citizen)"
@@ -1812,6 +1818,9 @@ countries:
           da: "Danmark"
           pl: "Dania"
           zh-CN: "丹麦"
+          zh-TW: "丹麥"
+          vi: "Đan Mạch"
+          vi-hani: "丹麥"
         items:
           - text:
               en: "Contact the Danish [Consumer Ombudsman](https://forbrugerombudsmanden.dk/consumer-ombudsman)"
@@ -1842,6 +1851,8 @@ countries:
           pl: "Czechy"
           zh-CN: "捷克共和国"
           zh-TW: "捷克共和國"
+          vi: "Séc"
+          vi-hani: "呎(Séc)"
         items:
           - text:
               ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
@@ -1892,6 +1903,8 @@ countries:
           pl: "Polska"
           zh-TW: "波蘭"
           zh-CN: "波兰"
+          vi: "Ba Lan"
+          vi-hani: "波蘭"
         items:
           - text:
               ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
@@ -1924,6 +1937,8 @@ countries:
           en: "Lithuania"
           pl: "Litwa"
           zh-CN: "立陶宛"
+          vi: "Litva"
+          vi-hani: "𡊻𠇕(Litva)"
         items:
           - text:
               en: "Email: [tarnyba@vvtat.lt](mailto:tarnyba@vvtat.lt?cc=lithuania@keepandroidopen.org) [taryba@kt.gov.lt](mailto:taryba@kt.gov.lt?cc=lithuania@keepandroidopen.org)"
@@ -1945,6 +1960,7 @@ countries:
           el: "Σλοβακία"
           zh-TW: "斯洛伐克"
           zh-CN: "斯洛伐克"
+          vi-hani: "綀露𠇕其阿(Slovakia)"
         locales:
           - sk
         items:
@@ -1973,6 +1989,7 @@ countries:
           hu: "Magyarország"
           pl: "Węgry"
           zh-CN: "匈牙利"
+          vi-hani: "雄迦𠶋(Hungary)"
         items:
           - text:
               en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
@@ -2008,6 +2025,8 @@ countries:
       zh-CN: "英国"
       zh-TW: "英國"
       ja: "イギリス"
+      vi: "Anh Quốc"
+      vi-hani: "英國"
     items:
       - text:
           ar: "البريد الإلكتروني: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
@@ -2070,6 +2089,7 @@ countries:
       zh-CN: "巴西"
       zh-TW: "巴西"
       ja: "ブラジル"
+      vi-hani: "巴𤄷傎(Brasil)"
     items:
       - text:
           ar: "البريد الإلكتروني: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
@@ -2154,6 +2174,7 @@ countries:
       zh-CN: "新加坡"
       zh-TW: "新加坡"
       ja: "シンガポール"
+      vi-hani: "𦎡迦逋(Singapore)"
     items:
       - text:
           ar: "البريد الإلكتروني: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
@@ -2238,6 +2259,8 @@ countries:
       zh-CN: "泰国"
       zh-TW: "泰國"
       ja: "タイ"
+      vi: "Thái Lan"
+      vi-hani: "泰蘭"
     items:
       - text:
           ar: "البريد الإلكتروني: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
@@ -2370,6 +2393,7 @@ countries:
       zh-CN: "印尼"
       zh-TW: "印尼"
       ja: "インドネシア"
+      vi-hani: "印都呢嗤阿(Indonesia)"
     items:
       - text:
           ar: "البريد الإلكتروني: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
@@ -2454,6 +2478,8 @@ countries:
       zh-CN: "瑞士"
       zh-TW: "瑞士"
       ja: "スイス"
+      vi: "Thụy Sĩ"
+      vi-hani: "瑞士"
     items:
       - text:
           ar: "قدّم تقريراً إلى [لجنة المنافسة](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
@@ -2496,6 +2522,8 @@ countries:
       zh-CN: "澳大利亚"
       zh-TW: "澳洲"
       ja: "オーストラリア"
+      vi: "Úc"
+      vi-hani: "澳"
     items:
       - text:
           ar: "البريد الإلكتروني: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
@@ -2581,6 +2609,7 @@ countries:
       pt-BR: "Aotearoa / Nova Zelândia"
       pl: "Nowa Zelandia"
       zh-CN: "奥特亚罗瓦/新西兰"
+      vi-hani: "Aotearoa /𫼩彌縺(New Zealand)"
     items:
       - text:
           en: "Email: [contact@comcom.govt.nz](mailto:contact@comcom.govt.nz?cc=nz@keepandroidopen.org)"
@@ -2634,6 +2663,8 @@ countries:
       zh-CN: "日本"
       zh-TW: "日本"
       ja: "日本"
+      vi: "Nhật Bản"
+      vi-hani: "日本"
     items:
       - text:
           ar: "البريد الإلكتروني: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
@@ -2705,6 +2736,8 @@ countries:
       zh-CN: "韩国"
       zh-TW: "韓國"
       ja: "韓国"
+      vi: "Hàn Quốc"
+      vi-hani: "韓國"
     items:
       - text:
           ar: "البريد الإلكتروني: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
@@ -2768,6 +2801,8 @@ countries:
       zh-CN: "印度"
       zh-TW: "印度"
       ja: "インド"
+      vi: "Ấn Độ"
+      vi-hani: "印度"
     items:
       - text:
           ar: "البريد الإلكتروني: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
@@ -2815,6 +2850,8 @@ countries:
       pt-BR: "Itália"
       zh-CN: "意大利"
       zh-TW: "義大利"
+      vi: "Ý"
+      vi-hani: "意"
     items:
       - text:
           en: "Submit a segnalation using the form at [this page](https://www.agcm.it/segnala-online/index) or send a Certified Email to [protocollo.agcm@pec.agcm.it](protocollo.agcm@pec.agcm.it)"
@@ -2852,6 +2889,7 @@ countries:
       zh-CN: "加拿大"
       zh-TW: "加拿大"
       ja: "カナダ"
+      vi-hani: "𠹭那多(Canada)"
     items:
       - text:
           ar: "البريد الإلكتروني: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
@@ -2915,6 +2953,8 @@ countries:
       zh-CN: "台湾"
       zh-TW: "臺灣"
       ja: "台湾"
+      vi: "Đài Loan"
+      vi-hani: "臺灣"
     items:
       - text:
           ar: "البريد الإلكتروني: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
@@ -2957,8 +2997,10 @@ countries:
     name:
       en: "Hong Kong SAR"
       pl: "Hongkong"
-      zh-CN: "香港"
+      zh-CN: "香港特别行政区"
       zh-TW: "香港"
+      vi: "Đặc khu hành chính Hương Cảng"
+      vi-hani: "特區行政香港"
     items:
       - text:
           en: "Email: [complaints@compcomm.hk](mailto:complaints@compcomm.hk?cc=hongkong@keepandroidopen.org)"
@@ -2994,6 +3036,8 @@ countries:
       zh-CN: "土耳其"
       zh-TW: "土耳其"
       ja: "トルコ"
+      vi: "Thổ Nhĩ Kỳ"
+      vi-hani: "土耳其"
     items:
       - text:
           ar: " تواصل مع [Rekabet Kurumu / هيئة المنافسة التركية (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
@@ -3039,6 +3083,7 @@ countries:
       zh-CN: "阿根廷"
       zh-TW: "阿根廷"
       ja: "アルゼンチン"
+      vi-hani: "噁𠻃卑那(Argentina)"
     items:
       - text:
           ar: "البريد الإلكتروني: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
@@ -3102,6 +3147,7 @@ countries:
       zh-CN: "墨西哥"
       zh-TW: "墨西哥"
       ja: "メキシコ"
+      vi-hani: "迷希古(Mexico)"
     items:
       - text:
           ar: "البريد الإلكتروني: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
@@ -3165,6 +3211,7 @@ countries:
       zh-CN: "菲律宾"
       zh-TW: "菲律賓"
       ja: "フィリピン"
+      vi-hani: "菲㕸𠯴(Philippines)"
     items:
       - text:
           ar: "تواصل مع [لجنة المنافسة الفلبينية (PCC)](https://www.phcc.gov.ph/)"
@@ -3203,6 +3250,9 @@ countries:
       zh-TW: "波蘭"
       ja: "ポーランド"
       zh-CN: "波兰"
+      vi: "Ba Lan"
+      vi-hani: "波蘭"
+
     items:
       - text:
           ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
@@ -3249,6 +3299,8 @@ countries:
       zh-CN: "捷克共和国"
       zh-TW: "捷克共和國"
       ja: "チェコ"
+      vi: "Séc"
+      vi-hani: "呎(Séc)"
     items:
       - text:
           ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
@@ -3305,6 +3357,8 @@ countries:
       zh-CN: "乌克兰"
       zh-TW: "烏克蘭"
       ja: "ウクライナ"
+      vi: "Ukraina"
+      vi-hani: "幽基𡃄那(Ukraina)"
     items:
       - text:
           ar: "تواصل مع [اللجنة الوطنية لتنظيم الاتصالات الإلكترونية](https://nkek.gov.ua/)"
@@ -3366,6 +3420,7 @@ countries:
       pl: "Słowacja"
       pt-BR: "Eslováquia"
       zh-CN: "斯洛伐克"
+      vi-hani: "綀露𠇕其阿(Slovakia)"
     locales:
       - sk
     items:
@@ -3402,6 +3457,8 @@ countries:
       ja: "中国本土"
       el: "Ηπειρωτική Κίνα"
       tr: "Çin Anakarası"
+      vi: "Trung Quốc đại lục"
+      vi-hani: "中國大陸"
     items:
       - text:
           ar: "تواصل مع [الإدارة الحكومية لتنظيم السوق (SAMR)](https://www.samr.gov.cn/) عن طريق الاتصال بالرقم 010-88650000."
@@ -3442,6 +3499,8 @@ countries:
       pt-BR: "Arábia Saudita"
       zh-CN: "沙特阿拉伯"
       zh-TW: "沙烏地阿拉伯"
+      vi: "Ả Rập Xê Út"
+      vi-hani: "阿摺𦀺𠃝(Ả Rập Xê Út)"
     items:
       - text:
           ar: "تواصل مع [الهيئة العامة للمنافسة](https://gac.gov.sa)"
@@ -3472,6 +3531,8 @@ countries:
         pt-BR: "Egito"
         zh-CN: "埃及"
         zh-TW: "埃及"
+        vi: "Ai Cập"
+        vi-hani: "埃及"
     items:
     - text:
         ar: "تواصل مع [جهاز حماية المنافسة](https://eca.org.eg/ar-eg)"
@@ -3491,6 +3552,7 @@ countries:
       pt-BR: "Hungria"
       zh-CN: "匈牙利"
       zh-TW: "匈牙利"
+      vi-hani: "雄迦𠶋(Hungary)"
     items:
       - text:
           en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
@@ -3509,6 +3571,7 @@ countries:
       pl: "Kolumbia"
       pt-BR: "Colômbia"
       zh-CN: "哥伦比亚"
+      vi-hani: "古𤒢啤阿(Colombia)"
     items:
       - text:
           en: Make a report to the [Superintendence of Industry and Commerce](https://servicioslinea.sic.gov.co/servilinea/pqrsf/)

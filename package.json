@@ -16,6 +16,7 @@
     "remark-custom-heading-id": "^2.0.0"
   },
   "devDependencies": {
-    "@rollup/plugin-yaml": "^4.1.2"
+    "@rollup/plugin-yaml": "^4.1.2",
+    "@types/node": "^25.5.0"
   }
 }
